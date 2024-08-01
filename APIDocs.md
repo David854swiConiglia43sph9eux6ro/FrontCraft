@@ -1,2 +1,3 @@
 BackCoreOverview
 APIStructure
+EndpointDetails
