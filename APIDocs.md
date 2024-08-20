@@ -1,3 +1,4 @@
 BackCoreOverview
 APIStructure
 EndpointDetails
+DependenciesList
