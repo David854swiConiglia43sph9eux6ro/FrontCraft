@@ -2,3 +2,4 @@ BackCoreOverview
 APIStructure
 EndpointDetails
 DependenciesList
+CodeSamples
