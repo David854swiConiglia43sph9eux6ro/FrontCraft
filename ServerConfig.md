@@ -2,3 +2,4 @@ ServerSetup
 InstallationSteps
 ConfigParameters
 ServerWorkflow
+ServerSettings
