@@ -3,3 +3,4 @@ InstallationSteps
 ConfigParameters
 ServerWorkflow
 ServerSettings
+CommunityRules
