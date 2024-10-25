@@ -4,3 +4,4 @@ EndpointDetails
 DependenciesList
 CodeSamples
 ContributionGuide
+ErrorHandling
