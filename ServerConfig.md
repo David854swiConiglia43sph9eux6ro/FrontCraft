@@ -4,3 +4,4 @@ ConfigParameters
 ServerWorkflow
 ServerSettings
 CommunityRules
+LicenseDetails
