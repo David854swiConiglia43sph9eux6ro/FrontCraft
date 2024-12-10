@@ -5,3 +5,4 @@ ServerWorkflow
 ServerSettings
 CommunityRules
 LicenseDetails
+Changelog
