@@ -6,3 +6,4 @@ ServerSettings
 CommunityRules
 LicenseDetails
 Changelog
+TestingInstructions
