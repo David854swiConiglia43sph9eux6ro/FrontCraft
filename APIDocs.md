@@ -8,3 +8,4 @@ ErrorHandling
 LegalNotes
 BackendFAQ
 APIVersioning
+PerformanceMetrics

@@ -7,3 +7,4 @@ CommunityRules
 LicenseDetails
 Changelog
 TestingInstructions
+ServerOptimization
