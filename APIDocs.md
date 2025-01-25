@@ -9,3 +9,4 @@ LegalNotes
 BackendFAQ
 APIVersioning
 PerformanceMetrics
+CommunityResources
